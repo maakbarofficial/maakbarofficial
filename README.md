@@ -9,7 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/maakbarofficial" target="blank"><img src="https://img.shields.io/twitter/follow/maakbarofficial?logo=twitter&style=for-the-badge" alt="maakbarofficial" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [My Website](https://aliakbar.vercel.app/)
+- 👨‍💻 All of my MERN Stack Projects are available at [My Website](https://aliakbar.vercel.app/)
+
+- 👨‍💻 All of my MQL4/MQL5 Projects are available at [MQL Official Website](https://www.mql5.com/en/users/maakbarofficial)
+
+- 👨‍💻 All of my PineScript Projects are available at [Trading View Official Site](https://www.tradingview.com/u/maakbarofficial/#published-scripts)
 
 - 📫 How to reach me **aliakbar.mql@gmail.com**
 
