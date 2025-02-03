@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="javascript.jpeg">
+<img align="center" alt="coding" src="javascript.png">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Akbar</h1>
