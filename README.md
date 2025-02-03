@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="200" src="javascript.png">
+
 <h1 align="center">Hi 👋, I'm Muhammad Ali Akbar</h1>
 <img align="right" alt="coding" width="400" src="software-engineer.gif">
 
